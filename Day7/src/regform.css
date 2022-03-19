@@ -1,0 +1,18 @@
+.button1{
+    background-color: blue;
+    color:white;
+}
+.button2{
+    background-color: grey;
+    color:white;
+}
+.details
+{
+    color:rgb(13, 13, 128);
+}
+.border{
+    border :1px solid black;
+    margin-bottom: 10%;
+    border-width: 15px;
+    
+}
