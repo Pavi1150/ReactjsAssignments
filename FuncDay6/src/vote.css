@@ -1,0 +1,24 @@
+.borders{
+    border:1px solid black;
+    width:200px;
+    height:295px;
+}
+.border1{
+    border:1px solid black;
+    margin-left: 65px;
+}
+.border2{
+    border:1px solid black;
+    margin-left: 35px;
+}
+.border3{
+    border:1px solid black;
+    margin-left: 35px;
+}
+.border4{
+    border:1px solid black;
+    margin-left: 5px;
+}
+.line1{
+    border:1px solid black;
+}
