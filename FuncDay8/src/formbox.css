@@ -1,0 +1,16 @@
+.details{
+    color:blue;
+}
+.l1{
+    color:rgb(235, 96, 119);
+}
+.border{
+    width: 500px;
+  height: 200px;
+  padding: 50px;
+    border: 1px solid black;
+    margin-left: 500px;
+}
+.space{
+    margin-right: 900px;
+}
