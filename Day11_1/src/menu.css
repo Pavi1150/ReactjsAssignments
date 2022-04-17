@@ -1,0 +1,12 @@
+u{
+    text-decoration-color: brown;
+    
+}
+a:hover{
+    color:white !important;
+    background-color: rgb(209, 135, 23);        
+    border-radius: 5%;
+}
+.fw{
+    letter-spacing: 1px;
+}
