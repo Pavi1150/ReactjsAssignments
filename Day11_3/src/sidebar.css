@@ -1,0 +1,21 @@
+.text{
+    text-shadow: 1px 1px gray;
+}
+.a:hover{
+    color:black !important;
+    background-color:rgba(176, 192, 201, 0.482);        
+    border-radius: 5%;
+}
+.heart {
+	font-size: 150px;
+	color: #e00;
+	animation: beat .25s infinite alternate;
+	transform-origin: center;    
+}
+@keyframes beat{
+	to { transform: scale(1.2); }
+}
+.hov:hover{
+	color: black !important;
+	background-color: white !important;
+}
