@@ -1,0 +1,20 @@
+.title{
+    letter-spacing: 2px;
+}
+u{  
+    text-decoration-color: aqua;
+}
+.bor{    
+    border-radius: 15%;    
+}
+.comp{
+    color:rgba(113, 101, 101, 0.734);
+}
+.comp:hover{
+    color:aqua !important;       
+}
+.limit{
+    width:700px;
+    word-wrap: break-word;
+    margin-left: 400px;
+}
